@@ -1,8 +1,12 @@
 # Build a Website with Node.js
 
+
+
 Full project for the Build a Website with Node course. 
 
 ## Instructions
+
+
 
 1. Clone the repo: `git@github.com:scotch-io/node-website-course.git`
 2. Install packages: `npm install`
@@ -11,4 +15,4 @@ Full project for the Build a Website with Node course.
 
 ## Course Videos
 
-[Watch the first three lessons free](https://school.scotch.io/build-a-nodejs-website)
+[You Will Watch the first three lessons free Only](https://school.scotch.io/build-a-nodejs-website)
